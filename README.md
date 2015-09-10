@@ -1,6 +1,6 @@
 # Programming Practices
 
-Code snippets and accompanying WIKI used in studying programming concepts and practices.
+Code snippets and accompanying WIKI used to study programming concepts and practices.
 
 Try pretty-printing sample code:
 
