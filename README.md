@@ -2,6 +2,8 @@
 
 Code snippets and accompanying WIKI used to study programming concepts and practices.
 
+* [Scala](scala/README.md)
+
 Try pretty-printing sample code:
 
 ```scala
