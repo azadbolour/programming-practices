@@ -4,6 +4,7 @@ Code snippets and accompanying WIKI used to study programming concepts and pract
 
 * [Scala](scala/README.md)
 * [Haskell](haskell/README.md)
+* [Java](java/README.md)
 
 Try pretty-printing sample code:
 
