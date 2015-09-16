@@ -1,45 +1,39 @@
 # Welcome to the Bay Area Programming Practices Study Group
 
-Our mission is to facilitate collaboration between developers in learning timely 
+We are a group of developers committed to helping each other learn interesting 
 programming concepts and practices in depth. We do this through reading, hacking, 
-pairing, and dialog with fellow programmers.
+pairing, and dialog with fellow programmers in small sub-groups.
 
-We study together by meeting from time to time somewhere in the Bay Area, 
-by sharing resources through this github repository, and our 
+Sub-groups form organically for the study of specific programming topics by members who
+feel strongly about that topic to be able to justify study time for preparation and 
+homework related to the topic. Typically a topical sub-group may include 3-6 members,
+last for a few months and then disband, and spent a few hours a week in independent
+study and meetings. The sub-group may then decide to present their findings to the
+rest of the group in a meeting open to all members.
+
+The group as a whole shares resources through this github repository, and our 
 [Google Group](https://groups.google.com/forum/#!forum/programming-practices).
 
 ## Group Charter - Version 0.1
 
-Our study sessions are hosted - meaning that one member volunteers to prepare 
-for and lead a discussion on a particular topic of interest.
-
-Membership is by invitation only. 
-
-It is natural that some members can commit more time to the such a group's activities than others.
-In particular, hosting a session often requires a good amount of preparation time on the part of the host, 
-in order to understand the proposed topic area well-enough to effectively guide the discussion. 
-Hosts also generally prepare slides or demo code samples to support the discussion.
-
-We distinguish those members who can spend the extra effort to host sessions as sustaining 
-members, and afford them extra privileges.
-
-Sustaining members get to vote in group decision making, and they get priority in 
-inclusion in sessions where space is limited. Sustaining members also get write access 
-as collaborators to this repository.
+Our study sessions are hosted - meaning that one or two member volunteer to prepare 
+for and lead each session. Different members may host successive sessions of the 
+same topic, of coourse.
 
 A topic can be suggested for inclusion in the topic backlog by any member. 
-Individual sustaining members can then volunteer to host that topic. 
-Finally, topics are chosen for discussion by a vote of all sustaining members.
+Individual members can then volunteer to host that topic. When enough members
+have indicated an interest in spending serious time studying that topic, 
+a topical sub-group is formed.
 
-If you are a member who has attended at least one session, and you are interested 
-in becoming a sustaining member, send a message to the group to volunteer 
-to host a topic. You become a sustaining member once that topic is voted in 
-for discussion, and you have successfully hosted that discussion session.
+Application for membership to the group is by recommendation of an existing group member, 
+or an existing group member's direct connection.
 
-Sustaining membership continues as long as you volunteer to host sessions 
-from time to time, and your suggested sessions are voted in for discussion.
+You may apply for membership, attend a few sessions as a guest, and then 
+volunteer to host a topic. Membership is contingent on that topic attracting 
+enough interest to form a sub-group, and on your successful hosting of at least 
+two dicussion sessions.
 
-We are looking for a small group of like-minded programmers who are interested
-in understanding programming concepts at a deep level. At this time, membership
-is by recommendation of an existing group member, or an existing group member's 
-direct linkedin connection.
+Membership continues as long as a member volunteers to host sessions from time to time, 
+and the suggested sessions are voted in for discussion.
+
+We look forward to having you join us.
