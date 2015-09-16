@@ -16,7 +16,7 @@ The group as a whole shares resources through this github repository, and our
 
 Our study sessions are hosted - meaning that one or two member volunteer to prepare 
 for and lead each session. Different members may host successive sessions of the 
-same topic, of coourse.
+same topic, of course.
 
 A topic can be suggested for inclusion in the topic backlog by any member. 
 Individual members can then volunteer to host that topic. When enough members
