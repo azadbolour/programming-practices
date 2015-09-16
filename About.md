@@ -1,4 +1,4 @@
-# Welcome to the Bay Area Programming Practices Study Group
+# Bay Area Programming Practices Study Group
 
 We are a group of developers committed to helping each other learn timely 
 programming concepts and practices in depth. We do this through reading, hacking, 
