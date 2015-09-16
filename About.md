@@ -14,7 +14,7 @@ rest of the group in a meeting open to all members.
 The group as a whole shares resources through this github repository, and our 
 [Google Group](https://groups.google.com/forum/#!forum/programming-practices).
 
-Our study sessions are hosted - meaning that one or two member volunteer to prepare 
+Our study sessions are hosted - meaning that one or two members volunteer to prepare 
 for and lead each session. Different members may host successive sessions of the 
 same topic, of course.
 
