@@ -29,7 +29,7 @@ or an existing group member's direct connection.
 You may apply for membership, attend a few sessions as a guest, and then 
 volunteer to host a topic. Membership is contingent on that topic attracting 
 enough interest to form a sub-group, and on your successful hosting of at least 
-two dicussion sessions.
+two discussion sessions.
 
 Membership continues as long as a member volunteers to host sessions from time to time, 
 and the suggested sessions are voted in for discussion.
