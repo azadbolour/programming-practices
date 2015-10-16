@@ -1,9 +1,11 @@
 
 * Unique contributions of Go to programming practice.
 * Unique contributions of C# to programming practice.
+* The Coq functional programming language. And comparison to Haskell.
+* The ML functional programming language. And comparison to Haskell.
 * Containerization and Docker.
 * Virtual data center management: Mesos, Kubernetes, Cloud Foundry.
-* Models of message brokerage: RabbitMQ, Kafka, Akka.
+* Models of message brokerage: RabbitMQ, Kafka, Akka. Comparison of guarantees.
 * The cake pattern.
 * Type classes: in Haskell and in Scala.
 * Spring boot.
@@ -15,4 +17,4 @@
 * Sharding and replication implementation strategies, in Dynamo, Cassandra, ...
 * Machine learning.
 * Natural language processing.
-* Modern UI frameworks - e.g., React, AngularJS.
+* Modern UI frameworks - e.g., React.
