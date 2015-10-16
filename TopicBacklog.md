@@ -1,4 +1,5 @@
 
+* Category theory and its influence in programming. Started Sept 2015. 
 * Unique contributions of Go to programming practice.
 * Unique contributions of C# to programming practice.
 * The Coq functional programming language. And comparison to Haskell.
@@ -11,7 +12,6 @@
 * Spring boot.
 * SDN - Software-Defined Networking.
 * Basic network security.
-* Category theory and its influence in programming.
 * Parsing in general, and functional parsing in particular.
 * Domain-specific languages.
 * Sharding and replication implementation strategies, in Dynamo, Cassandra, ...
